@@ -4,6 +4,7 @@ CodeBook about 'Tidy_Data.txt'
 
 # ID
  [1] "subject" : Subject Identifier, integer (1~30)
+ 
  [2] "Activity" : Activity Identifier, string, (Walking,Walking_Upstairs,Walking_Downstairs, Sitting, Standing, Laying)
 * WALKING` (value `1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
